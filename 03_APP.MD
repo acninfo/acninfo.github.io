@@ -14,4 +14,4 @@
 ### [3-5. IBO契約内容変更届](https://s3.amazonaws.com/acnjpn/back_office/images/business/Notification+of+Contract+Change.pdf)
 * URLリンク: [https://s3.amazonaws.com/acnjpn/back_office/images/business/Notification+of+Contract+Change.pdf](https://s3.amazonaws.com/acnjpn/back_office/images/business/Notification+of+Contract+Change.pdf)
 
-## [![ACN IBO共有情報](static/keyboard-return-24.png)ACN IBO情報ポータル](00_FAQ.MD)
+## ![](static/keyboard-return-24.png)[ACN IBO共有情報](00_FAQ.MD)

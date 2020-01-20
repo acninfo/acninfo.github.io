@@ -18,4 +18,4 @@
 ### 3-4. 個人ポイント（顧客）を獲得し続ける
 * １５ｐ以上の個人ポイント達成
 
-## [![ACN ガイド情報](static/keyboard-return-24.png)ACN IBO情報ポータル](10_GID.MD)
+## ![](static/keyboard-return-24.png)[ACN IBO共有情報](10_GID.MD)

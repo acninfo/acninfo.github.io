@@ -26,4 +26,4 @@
 ### 2-8. 最初1月之1：完成ETT
 * 輔助新IBO在1个月內完成ETT，挑戰30天ETT獎金
 
-## [![ACN ガイド情報](static/keyboard-return-24.png)ACN IBO情報ポータル](10_GID.MD)
+## ![](static/keyboard-return-24.png)[ACN IBO共有情報](10_GID.MD)
