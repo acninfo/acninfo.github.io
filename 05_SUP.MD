@@ -45,4 +45,4 @@
 * 電話番号：0120-140-202（フリーダイヤル）
 * 営業時間：年末年始を除く（9:00〜17:00）   
 
-## [ACN IBO共有情報](00_FAQ.MD)に戻る
+## [![ACN IBO共有情報](static/keyboard-return-24.png)ACN IBO情報ポータル](00_FAQ.MD)

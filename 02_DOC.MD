@@ -15,4 +15,4 @@
 ### [2-5. Flash Internet概要資料(1 Pager)](https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_HSI_brochure.pdf)
 * URLリンク: [https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_HSI_brochure.pdf](https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_HSI_brochure.pdf)
 
-## [ACN IBO共有情報](00_FAQ.MD)に戻る
+## [![ACN IBO共有情報](static/keyboard-return-24.png)ACN IBO情報ポータル](00_FAQ.MD)

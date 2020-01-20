@@ -18,4 +18,4 @@
 ### 4-4. 持續增加個人積分
 * 个人積分達到15分以上
 
-## [ACN ガイド情報](10_GID.MD)に戻る
+## [![ACN ガイド情報](static/keyboard-return-24.png)ACN IBO情報ポータル](10_GID.MD)

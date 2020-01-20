@@ -26,4 +26,4 @@
 ### 1-8. 最初の１ヶ月間その１：ETT
 * １ヶ月以内にETTを完成し、３０日ETTボーナスにチャレンジする
 
-## [ACN ガイド情報](10_GID.MD)に戻る
+## [![ACN ガイド情報](static/keyboard-return-24.png)ACN IBO情報ポータル](10_GID.MD)
