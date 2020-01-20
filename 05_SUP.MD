@@ -1,7 +1,4 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
-## [このページのURL](05_SUP.MD)
-
-## 5. 各サポート窓口
+## [5. 各サポート窓口](05_SUP.MD)
 ### 5-1. ACN IBOサポート
 * 電話番号：03-4578-7988
 * E-Mail：IBOSupport@acnjapan.co.jp

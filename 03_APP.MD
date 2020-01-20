@@ -1,7 +1,4 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
-## [このページのURL](03_APP.MD)
-
-## 3. よく使う申込資料
+## [3. よく使う申込資料](03_APP.MD)
 
 ### [3-1. IBO登録手順](https://todo)
 * URLリンク: [https://todo](https://todo)
