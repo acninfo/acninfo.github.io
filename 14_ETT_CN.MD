@@ -1,5 +1,7 @@
 ## [4. 達成30天ETT獎金的「Working Backwards」逆向工程法](14_ETT_CN.MD)
 
+![ACN Japan本社オフィス](static/ett_bonus.png)
+
 ### 4-1. 完成30天ETT獎金需要做到
 * 邀請至少2位以上的IBO
 * 2位以上的IBO，每位都簽約至少3點以上商品而成為QTT
