@@ -37,4 +37,4 @@
 * 5-10. NTT西日本転用承諾番号取得
 * 5-11. NTT東日本転用承諾番号取得
 
-## [![ACN IBO情報ポータル](static/keyboard-return.png)ACN IBO情報ポータル](README.md)
+## [![ACN IBO情報ポータル](static/keyboard-return-24.png)ACN IBO情報ポータル](README.md)
