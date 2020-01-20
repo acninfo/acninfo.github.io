@@ -14,7 +14,7 @@
 ### [1-4．XOOM（電気）申込み](https://acn.xoomenergy.co.jp)
 * URLリンク: [https://acn.xoomenergy.co.jp](https://acn.xoomenergy.co.jp)
 
-### [1-5．MYXOOM（電気）](https://myxoomenergy.jp/)
+### [1-5．MyXOOM（電気）](https://myxoomenergy.jp/)
 * URLリンク: [https://myxoomenergy.jp/](https://myxoomenergy.jp/)
 
 ### [1-6．Flash Mobile・Internet （格安スマホ・ブロードバンド）申込み](https://flashcorp.co.jp/form2.html)
