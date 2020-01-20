@@ -1,5 +1,5 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)に戻る
-## [このページのURL](https://todo)
+# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
+## [このページのURL](05_SUP.MD)
 
 ## 5. 各サポート窓口
 ### 5-1. ACN IBOサポート

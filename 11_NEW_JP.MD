@@ -1,5 +1,5 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)に戻る
-## [このページのURL](https://todo)
+# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
+## [このページのURL](11_NEW_JP.MD)
 
 ## 1. IBO新規登録後のガイドステップ
 * スポンサー、またはチームリーダーがガイドしなければならない

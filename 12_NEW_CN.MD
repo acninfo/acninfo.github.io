@@ -1,5 +1,5 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)に戻る
-## [このページのURL](https://todo)
+# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
+## [このページのURL](12_NEW_CN.MD)
 
 ## 2. IBO新規登録後的輔導步驟
 * 需要介紹人，或團隊領導負責跟進
