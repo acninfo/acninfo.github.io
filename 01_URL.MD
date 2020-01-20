@@ -1,7 +1,4 @@
-# ACN IBO共有情報[先頭ページ](00_FAQ.MD)
-## [このページのURL](01_URL.MD)
-
-## 1. よく使うURL
+## [1. よく使うURL](01_URL.MD)
 
 ### [1-1. IBO登録](https://www.acnjapan.co.jp/acngoodsstorefront/benevita/ja/enrollment)
 
@@ -25,3 +22,5 @@
 
 ### [1-7．Flash Mobile（格安スマホ）回線開通手続きサイト](https://mnpswitch.aclink-oem.com/)
 * URLリンク: [https://mnpswitch.aclink-oem.com/](https://mnpswitch.aclink-oem.com/)
+
+## [ACN IBO共有情報](00_FAQ.MD)
