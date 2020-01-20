@@ -1,7 +1,7 @@
 ## [3. よく使う申込資料](03_APP.MD)
 
 ### [3-1. IBO登録手順](static/ibo_registry.pdf)
-* [URLリンク](static/ibo_registry.pdf)
+* URLリンク: [static/ibo_registry.pdf](static/ibo_registry.pdf)
 
 ### [3-2. XOOM申込手順](https://acnjpn.s3.amazonaws.com/back_office/images/training/xoom_enrollment_steps.pdf)
 * URLリンク: [https://acnjpn.s3.amazonaws.com/back_office/images/training/xoom_enrollment_steps.pdf](https://acnjpn.s3.amazonaws.com/back_office/images/training/xoom_enrollment_steps.pdf)

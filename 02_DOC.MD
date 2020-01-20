@@ -7,7 +7,7 @@
 * URLリンク: [https://s3.amazonaws.com/acnjpn/back_office/images/training/ACN_Japan_Business_Overview.pdf](https://s3.amazonaws.com/acnjpn/back_office/images/training/ACN_Japan_Business_Overview.pdf)
 
 ### [2-3. XOOMと電力自由化説明資料](static/xoom_overview.pdf)
-* [URLリンク](static/xoom_overview.pdf)
+* URLリンク: [static/xoom_overview.pdf](static/xoom_overview.pdf)
 
 ### [2-4. Flash Mobile概要資料(1 Pager)](https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_MOBILE_brochure.pdf)
 * URLリンク: [https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_MOBILE_brochure.pdf](https://s3.amazonaws.com/acnjpn/back_office/images/training/FLASH_MOBILE_brochure.pdf)
