@@ -1,4 +1,4 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)に戻る
+# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
 ## [このページのURL](https://todo)
 
 ## 2. よく使う事業資料
