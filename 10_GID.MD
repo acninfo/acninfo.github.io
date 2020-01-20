@@ -32,4 +32,4 @@
 * 4-3. 幫助新加入IBO完成QTT
 * 4-4. 持續增加個人積分
 
-## [![ACN IBO情報ポータル](static/keyboard-return-24.png)ACN IBO情報ポータル](README.md)
+## ![](static/keyboard-return-24.png)[ACN IBO情報ポータル](README.md)
