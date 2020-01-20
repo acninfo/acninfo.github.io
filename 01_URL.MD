@@ -23,4 +23,4 @@
 ### [1-7．Flash Mobile（格安スマホ）回線開通手続きサイト](https://mnpswitch.aclink-oem.com/)
 * URLリンク: [https://mnpswitch.aclink-oem.com/](https://mnpswitch.aclink-oem.com/)
 
-## [ACN IBO共有情報](00_FAQ.MD)
+## [ACN IBO共有情報](00_FAQ.MD)に戻る
