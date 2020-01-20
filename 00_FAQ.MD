@@ -1,5 +1,4 @@
-# ACN IBO情報ポータル[先頭ページ](https://faq.acn.jp.net)
-## [このページのURL](00_FAQ.MD)
+# ACN IBO共有情報[先頭ページ](00_FAQ.MD)
 
 ## 目次
 
