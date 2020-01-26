@@ -23,4 +23,10 @@
 ### [1-7．Flash Mobile（格安スマホ）回線開通手続きサイト](https://mnpswitch.aclink-oem.com/)
 * URLリンク: [https://mnpswitch.aclink-oem.com/](https://mnpswitch.aclink-oem.com/)
 
+### [1-8．経済産業省・登録小売電気事業者一覧（XOOMがA0365）](https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/summary/retailers_list/)
+* URLリンク: [https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/summary/retailers_list/](https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/summary/retailers_list/)
+
+### [1-9．新電力ネット・XOOM](https://pps-net.org/ppscompany/28232)
+* URLリンク: [https://pps-net.org/ppscompany/28232](https://pps-net.org/ppscompany/28232)
+
 ## ![](static/keyboard-return-24.png)[ACN IBO共有情報](00_FAQ.MD)
